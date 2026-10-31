@@ -1,0 +1,5 @@
+start_s,end_s,activity
+01,24,walking
+24,33,standing
+33,50,jumping
+50,65,still
