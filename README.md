@@ -37,6 +37,7 @@ One video per activity, showing my full body and face while the phone records.
 
 ## Dataset
 
+|  |  |
 |---|---|
 | Device | Huawei P20 (EML-L09), Android 9 |
 | App | Sensor Logger 1.68 |
